@@ -35,4 +35,4 @@ O Databricks pode ser acessado na internet1. Esta é uma plataforma de nuvem com
 
 ## Documentação completa
 
-Acesse o PDF contendo documentação completa neste repositório.
+Acesse o PDF contendo documentação completa neste repositório, acesse [por este link](https://github.com/edprata/pucrj_cellphones/blob/main/PUC-RJ%20-%20MVP%20Engenharia%20de%20Dados.pdf).
